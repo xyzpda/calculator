@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+https://dev.azure.com/mjs400hk/mjs400hk/_apis/build/status/xyzpda.calculator?branchName=master
