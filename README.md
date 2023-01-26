@@ -15,3 +15,5 @@ To build, simply:
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
 https://dev.azure.com/mjs400hk/mjs400hk/_apis/build/status/xyzpda.calculator?branchName=master
+
+[![Build Status](https://dev.azure.com/mjs400hk/mjs400hk/_apis/build/status/xyzpda.calculator?branchName=master)](https://dev.azure.com/mjs400hk/mjs400hk/_build/latest?definitionId=3&branchName=master)
